@@ -6,3 +6,4 @@ o por medio de una apliacion web que ubique la informacion desde la interner ing
 
 todo esto se ira haciendo con Python, HTML ,CSS y JavaScrypt
 
+
