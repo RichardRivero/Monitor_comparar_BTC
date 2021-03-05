@@ -5,3 +5,12 @@ variables a ubicar ;
 diversar monedas
 
 Variable de monedas
+
+Notas 
+
+la aplicacion en su primera fase se buscara crear una pequeña interface que pueda mostrar
+los valores de las monedas y como calcular un monto relativo del btc 
+
+se intentara crear un simple html que sirva de interface con los valores btc y moneda local que necesitamos
+para posterior mente darle seguimiento y poder conseguir una mejor oferta
+ 
